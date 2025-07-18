@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
-
+克隆仓库 学习用
 # AutoFF
 
 《最终幻想14：水晶世界》小助手
@@ -48,7 +48,3 @@
 - [msc](https://github.com/NakanoSanku/msc)
 - [mtc](https://github.com/NakanoSanku/mtc)
 
-## Join us
-- AutoFF 交流群 QQ 群：728747469 - **禁止RMT、工作室相关**
-- AutoFF 开发群 QQ 群：222082281 - **非开发者勿加**
-- MaaFramework 开发交流 QQ 群: 595990173 - **非开发者勿加**
